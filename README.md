@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Meu nome é nome sobrenome
+Meu nome é Rafael Almeida
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
